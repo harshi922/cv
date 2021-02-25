@@ -1,0 +1,152 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  padding: 70px;
+  background-color: #f6f5f5;
+  text-align: center;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+  /*padding: 100px;*/
+}
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: bold;
+}
+.prog
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  margin-top: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bold;
+  border-width: 15px 0 0 0;
+
+}
+hr{
+  border-style: dotted;
+  width: 15%;
+  border-width: 15px 0 0 0;
+  color: #D3D3D3	;
+  margin: 90px auto 90px auto;
+
+}
+p{
+  margin: 40px auto 60px auto;
+}
+
+.italics {
+  text-decoration: underline;
+}
+
+.topcloud {
+  position: absolute;
+  right: 150px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 150px;
+  top: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.karate-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border-left: 30px;
+
+}
+
+.art-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profilepic
+{
+  width: 25%;
+}
+.middle-container{
+  padding: 70px;
+  background-color: white;
+
+}
+.button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 17px;
+   line-height: 17px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 149px;
+   font-size: 25px;
+   font-weight: 300;
+   padding: 28px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: inset 1px 1px 20px 0 #18909C;
+   -moz-box-shadow: inset 1px 1px 20px 0 #18909C;
+   box-shadow: inset 1px 1px 20px 0 #18909C;
+   text-shadow: 1px 1px 20px #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button:hover {
+   background: #84E5E5;
+   border: solid #48D4E2 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+}
+.footer-link{
+  color: #161d6f;
+  margin:auto 20px;
+  text-decoration: none;
+
+}
+a:hover
+{
+   color: white;
+}
